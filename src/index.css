@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  background-color: #f8f9fa; /* Off-white color */
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+  margin: 0; /* Remove default margin */
+}
